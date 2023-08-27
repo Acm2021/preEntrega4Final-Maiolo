@@ -11,4 +11,5 @@ footer {
 	width: 4rem;
 	height: 4rem;
 	margin: right;
+	@include botonMovimiento;
 }

@@ -34,8 +34,5 @@ label {
 }
 .btnFormulario {
 	@include boton1;
-	&:hover {
-		background: $background-color_2;
-		transform:translate(3px, -3px);
-	}
+	@include botonMovimientoYFondo;
 }

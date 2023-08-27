@@ -11,3 +11,20 @@
     cursor: pointer;
 
 }
+
+@mixin botonMovimiento{
+    &:hover {
+		transform:translate(3px, -3px);
+    }
+}
+
+@mixin botonMovimientoYFondo{
+    &:hover {
+		background: $background-color_2;
+		transform:translate(3px, -3px);
+    }
+}
+
+@mixin redondearBordes1{
+    border-radius: 10px;
+}
