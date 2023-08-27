@@ -184,16 +184,16 @@ label {
 
 /* NOSOTROS */
 .tituloPrincipalUbicacion {
-  margin-top: 40px;
   margin-left: 20px;
   font-size: 35px;
   text-align: left;
 }
 
 .containerParrafo {
-  width: 50vw;
+  width: 100%;
   margin: initial;
   padding: 20px;
+  text-align: justify;
 }
 
 .tituloSecundarioUbicacion {
