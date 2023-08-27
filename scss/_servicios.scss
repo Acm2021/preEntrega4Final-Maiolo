@@ -1,0 +1,28 @@
+$color_1: #083877;
+$color_2: #595b5e;
+
+/* SERVICIOS */
+.tituloPpalServicios {
+	margin-top: 70px;
+	margin-left: 40px;
+	padding-bottom: 20px;
+	font-size: 30px;
+	text-align: left;
+	color: $color_1;
+	font-weight: bold;
+	font-style: italic;
+}
+.iconoReservas {
+	width: 100px;
+	height: 100px;
+	border-radius: 10px;
+	padding-top: 30 px;
+}
+.elementoListaServicios {
+	margin-top: 10px;
+	margin-left: 0px;
+	font-size: 10px;
+	text-align: left;
+	color: $color_2;
+	font-weight: bold;
+}

@@ -1,0 +1,13 @@
+
+@mixin boton1{
+    background: radial-gradient(#4682A9, #4682A9, #253094);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-top: 10px;
+    transition: all 0.6s ease-in-out;
+    cursor: pointer;
+
+}
