@@ -3,8 +3,7 @@ $color_2: #595b5e;
 
 /* SERVICIOS */
 .tituloPpalServicios {
-	margin-top: 70px;
-	margin-left: 40px;
+	margin-top: 50px;
 	padding-bottom: 20px;
 	font-size: 30px;
 	text-align: left;
@@ -14,7 +13,8 @@ $color_2: #595b5e;
 }
 
 .iconoReservas{
-    background: none;
+    
+	background: none;
     border: none;
     padding: 0;
     cursor: pointer;
@@ -23,11 +23,25 @@ $color_2: #595b5e;
 	@include botonMovimiento;
 
 }
+.imagenReserva{
+	width: 120%;
 
+}
+
+.contenedorDeServicios{	
+	width: 90%;
+
+}
+.listaServicios{
+	text-decoration: none;
+	text-align: left;
+
+
+}
 .elementoListaServicios {
 	margin-top: 10px;
 	margin-left: 0px;
-	font-size: 10px;
+	font-size: 1rem;
 	text-align: left;
 	color: $color_2;
 	font-weight: bold;

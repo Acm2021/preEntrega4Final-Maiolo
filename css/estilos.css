@@ -212,8 +212,7 @@ label {
 
 /* SERVICIOS */
 .tituloPpalServicios {
-  margin-top: 70px;
-  margin-left: 40px;
+  margin-top: 50px;
   padding-bottom: 20px;
   font-size: 30px;
   text-align: left;
@@ -234,10 +233,23 @@ label {
   transform: translate(3px, -3px);
 }
 
+.imagenReserva {
+  width: 120%;
+}
+
+.contenedorDeServicios {
+  width: 90%;
+}
+
+.listaServicios {
+  text-decoration: none;
+  text-align: left;
+}
+
 .elementoListaServicios {
   margin-top: 10px;
   margin-left: 0px;
-  font-size: 10px;
+  font-size: 1rem;
   text-align: left;
   color: #595b5e;
   font-weight: bold;
