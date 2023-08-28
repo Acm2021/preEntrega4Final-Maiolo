@@ -1,14 +1,18 @@
 
 /* GALERIA */
+
+.contenedorTitulosDeLocaciones {
+	text-align: center;
+}
 .tituloPrincipalGaleria {
 	margin-top: 40px;
 	margin-left: 20px;
 	font-size: xx-large;
-	text-align: left;
+	text-align: center;
 }
 .tituloSecundarioGaleria {
-	margin-top: 40px;
-	margin-left: 20px;
-	font-size: x-large;
+	padding-top: 10px;
+	margin-bottom: 10px;
+	font-size: xx-large;
 	text-align: center;
 }
